@@ -1,5 +1,7 @@
 **website link** - first connect to metamask to explore the website 
 
+https://sriche.netlify.app/
+
 
 **tip for development**
 
